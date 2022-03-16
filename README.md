@@ -74,7 +74,7 @@ Skills to be implemented on this project are:
 
 
 
-## Links to Application Video Demo and GitHup Repository
+## Links to Application Video Demos and GitHup Repository
 - Video demo of creating schema from the MySQL shell/demo of how to seed the database/demo of how to start the app: https://drive.google.com/file/d/1Eu_ldnMg2sJ7yvJFqNJq-xWtlVEC9OZE/view?usp=sharing
 - Video demo of GET/POST/PUT/DELETE routes: https://drive.google.com/file/d/1BvmAwjLojKuUUMFbLUAku2pVAE8er85K/view?usp=sharing
 
