@@ -71,6 +71,7 @@ Skills to be implemented on this project are:
 
 ## View of how routes look on Insomnia
 
+![Screen Shot 2022-03-15 at 10 37 06 PM](https://user-images.githubusercontent.com/94095220/158524033-bbb52404-e696-40da-87d1-1108195d62b0.png)
 
 
 
