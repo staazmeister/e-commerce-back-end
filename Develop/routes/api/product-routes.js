@@ -133,7 +133,7 @@ router.delete('/:id', (req, res) => {
         })
         .then(productData => {
             if (!productData) {
-                res.status(404).json({ message: 'No Product found with that ID.' });
+                res.status(404).json({ message: 'No Product found.' });
                 return;
             }
             res.json(productData);
